@@ -1,2 +1,1 @@
-# lumics
-projeto da lumics ai
+#lumics on top
